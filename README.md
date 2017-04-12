@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.4.1
 
-* System dependencies
+* System dependencies: None yet
 
-* Configuration
+* Configuration: Created on Rails 5 on a Ubuntu system
 
-* Database creation
+* Database creation: SQLite for develoment and postgress for production.
 
 * Database initialization
 
