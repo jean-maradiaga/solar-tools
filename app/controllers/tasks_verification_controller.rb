@@ -1,0 +1,2 @@
+class TasksVerificationController < ApplicationController
+end
